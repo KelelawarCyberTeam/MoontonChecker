@@ -8,8 +8,8 @@ $ pip install requests futures bs4
 
 $ git clone https://github.com/KelelawarCyberTeam/MoontonChecker
 
-$ nano list.txt
-
 $ cd MoontonChecker
+
+$ nano list.txt
 
 $ python moonton.py
